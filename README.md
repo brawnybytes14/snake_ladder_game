@@ -1,2 +1,1 @@
-# snake_ladder_game
-Snake Ladder Game
+# Snake Ladder Game
